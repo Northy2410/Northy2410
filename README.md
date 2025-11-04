@@ -37,8 +37,9 @@
 
 ---
 
-### ⭐️ Follow me
+### ⭐️ Follow me and Profile Visitors
 [![Follow Riley on GitHub](https://img.shields.io/github/followers/Northy2410?label=Follow&style=social)](https://github.com/Northy2410)
+![Profile Views](https://komarev.com/ghpvc/?username=Northy2410&style=flat-square&color=blue)
 
 ---
 
