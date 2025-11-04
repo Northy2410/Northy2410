@@ -21,17 +21,17 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Northy2410&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Northy2410&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
 
 ---
 
 ### 🔤 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Northy2410&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Northy2410&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
 
 ---
 
 ### 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=Northy2410&theme=radical&no-frame=true&no-bg=true&margin-w=5)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Northy2410&theme=radical&no-frame=true&no-bg=true&margin-w=5&cache_seconds=1800)
 
 ---
 
