@@ -35,4 +35,9 @@
 
 ---
 
+### ⭐️ Follow me
+[![Follow Riley on GitHub](https://img.shields.io/github/followers/Northy2410?label=Follow&style=social)](https://github.com/Northy2410)
+
+---
+
 ⭐️ *"Code. Create. Repeat."*
