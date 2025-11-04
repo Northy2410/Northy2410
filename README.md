@@ -17,11 +17,20 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual%20studio%20code&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-E95420?logo=raspberry-pi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Northy2410&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Northy2410/Northy2410/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Northy2410/Northy2410/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Northy2410/Northy2410/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
